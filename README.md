@@ -39,4 +39,10 @@ The Unity project files (including the 3D character model and interaction system
 
 ---
 
-Feel free to update the demo link and add any additional files as you develop further!
+## To-Do List:
+- [ ] Fine-tune the model to act like a female virtual assistant using all stored data.
+- [ ] Implement the custom wake word detection network.
+- [ ] Give Remi vision by adding eyes, enabling more interaction with the user.
+
+---
+
