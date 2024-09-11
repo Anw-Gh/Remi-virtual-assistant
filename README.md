@@ -23,7 +23,7 @@ This notebook handles the integration of the LLaMA-3 model with the Telegram bot
 ---
 
 ### 2. `wakeword.py`
-This script contains code for wake word detection using Picovoice, allowing Remi to activate through a specific voice command.
+This script contains code for wake word detection using Picovoice, allowing Remi to activate through a specific voice command. Note: We will update this soon to use our custom wake word model, previously implemented from scratch. Picovoice is currently being used for its high accuracy.
 
 ---
 
