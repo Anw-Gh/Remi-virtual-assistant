@@ -1,4 +1,4 @@
-# Remi Virtual Assistant
+# Remi Virtual Assistant (In Development)
 
 **Remi Virtual Assistant** is my graduate project, built using the LLaMA-3 model with Retrieval-Augmented Generation (RAG) for enhanced responses. The assistant features text-to-speech via ElevenLabs and includes a 3D character in Unity. Users can interact with Remi using speech recognition in Unity or chat with her via text through a Telegram chatbot.
 
